@@ -1,8 +1,9 @@
 ```nim
 defUser "aruZeta":
   knownLags = @["nim", "common-lisp", "haskell",
-                "nix", "c", "c++", "assembly",
-                "javascript", "java", "python"]
+                "zig", "c", "c++", "assembly",
+                "nix", "javascript", "java",
+                "python", "c#"]
 
   favoriteLangs = @["nim", "common-lisp", "haskell"]
 
