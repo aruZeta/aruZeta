@@ -3,7 +3,7 @@ defUser "aruZeta":
   knownLags = @["nim", "common-lisp", "haskell",
                 "zig", "c", "c++", "assembly",
                 "nix", "javascript", "java",
-                "kotlin", "python", "c#"]
+                "kotlin", "swift", "python", "c#"]
 
   favoriteLangs = @["nim", "common-lisp", "haskell"]
 
